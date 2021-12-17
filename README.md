@@ -1,9 +1,8 @@
-# 2021gsc_Ren-Aoki
-- ゼミ論2021用リポジトリ
+# ゼミ論2021 概要
 
 - 青山学院大学　地球社会共生学部　地球社会共生学科
-- 八尋舞美/Mami Yahiro
-- 学籍番号 1A118170
+- 青木怜/Ren Aoki
+- 学籍番号 1A118002
 - 指導教員　古橋　大地　教授
 
 © Furuhashi Laboratory/Mami Yahiro, CC BY 4.0
