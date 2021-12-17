@@ -12,10 +12,8 @@
 ## 中間発表
 - [中間発表Medium](https://medium.com/furuhashilab/%E6%92%AE%E5%BD%B1-%E3%81%AB%E3%81%AF%E5%85%89%E3%81%8C%E5%A4%A7%E4%BA%8B-e93177bb91e6)
 
-
-## Abstract
-
 # 全体構成（IMRAD形式）
+## Abstract
 
 ## Introduction
 
