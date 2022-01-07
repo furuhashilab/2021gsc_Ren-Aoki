@@ -5,7 +5,7 @@
 - 学籍番号 1A118002
 - 指導教員　古橋　大地　教授
 
-© Furuhashi Laboratory/Mami Yahiro, CC BY 4.0
+© Furuhashi Laboratory/Ren Aoki, CC BY 4.0
 
 # 「2020年度ゼミ論」タイトル ： 青山学院大学相模原キャンパスB棟413スタジオにある機材だけで「クオリティの高い動画撮影をするにはどうすればいいか？」照明の使い方を工夫して検証。
 
