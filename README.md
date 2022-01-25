@@ -26,6 +26,8 @@
 ## 参考文献
 [参考文献リスト](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
 
+## 動画画像管理
+
 ## プレゼンスライド
 
 ## プロジェクトリンク
