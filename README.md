@@ -14,6 +14,7 @@
 
 ## 中間発表
 - [中間発表Medium](https://medium.com/furuhashilab/%E6%92%AE%E5%BD%B1-%E3%81%AB%E3%81%AF%E5%85%89%E3%81%8C%E5%A4%A7%E4%BA%8B-e93177bb91e6)
+- [ゼミ論アドベントカレンダー2021](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E8%AB%962021-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%A0%B1%E5%91%8A-db5753811478)
 
 # 全体構成（IMRAD形式）
 
