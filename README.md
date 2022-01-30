@@ -38,12 +38,12 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 ### 使用した機材
 
 ### 文献調査
-実際にスタジオで撮影を試す前に、PVやメイキング映像等のプロの撮影方法や照明の使い方を解説している記事,動画を探し参考文献を見つける。主にYouTubeで「照明の使い方」や「Lighting(ライティング)」について解説しているTipｓ動画を参考にし、照明の基礎的な使用方法を学び、実際の検証を進めた。YouTube上には撮影技術に関してプロが「素人」向けに方法を解説しているため、参考にしやすいことからこの媒体を選んだ。海外圏の撮影方法を解説している3つの動画をメインに参考にして、スタジオ撮影に応用する。
+実際にスタジオで撮影を試す前に、PVやメイキング映像等のプロの撮影方法や照明の使い方を解説している記事,動画を探し参考文献を見つける。主にYouTubeで「照明の使い方」や「Lighting(ライティング)」について解説しているTipｓ動画を参考にし、照明の基礎的な使用方法を学び、実際の検証を進めた。YouTube上には撮影技術に関してプロが「素人」向けに方法を解説しているため、参考にしやすいことからこの媒体を選んだ。海外圏の撮影方法を解説している3つの動画をメインに参考にして、スタジオ撮影に応用する。※[参考文献リストリンク](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
 - [8 Film Looks Using 1 Light](https://www.youtube.com/watch?v=43mIwnKQ9dQ)
 - [CINEMATIC LIGHTING (Without Lights!): Why I Often Don't Use Lights](https://www.youtube.com/watch?v=_PjdV1XBxOQ)
 - [Filmmaking 101 - Three Point Lighting Tutorial](https://www.youtube.com/watch?v=j_Sov3xmgwg)
 
-- [参考文献リストリンク](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
+
 
 ### 撮影
 
