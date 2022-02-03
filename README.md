@@ -88,6 +88,7 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 [参考文献リスト](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
 
 ## 動画画像管理
+- [google drive](https://drive.google.com/drive/folders/10pvrhj31vhUJL78bbD78trISLu3uBNR0?usp=sharing)
 
 ## プレゼンスライド
 
