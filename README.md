@@ -43,6 +43,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - グリーンバックスタンド： Hemmotop 200×300cm
 <img src="https://user-images.githubusercontent.com/49857703/107108101-d7c04b80-6878-11eb-95ed-8266958448ec.jpeg" width="300">
 - 照明2台(B棟413スタジオの設備) Mettle LH-4128
+<img src="https://user-images.githubusercontent.com/49857703/152399238-53cb211a-a600-4e58-84a0-1e6ba72083f8.JPEG" width="300"> <img src="https://user-images.githubusercontent.com/49857703/152399252-cb98c639-81ba-4eb6-b728-5b0c121fbb65.JPEG" width="300">
 
 
 
