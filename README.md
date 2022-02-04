@@ -121,8 +121,9 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 - 影の付け方に関しては今回の角度や距離は１つの指標としてみるべきで、環境や人によって好みは分かれるので調整しながら撮影すべき。
 
 #### 照明失敗例
-<img width="300" alt="スクリーンショット 0004-02-05 1 31 27" src="https://user-images.githubusercontent.com/49857703/152566319-647b1a53-9c5b-452e-bb4b-ba155013f4d5.png"><img width="300" alt="配置" src="https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG">
-![IMG_3541](https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG)
+<img width="300" alt="スクリーンショット 0004-02-05 1 31 27" src="https://user-images.githubusercontent.com/49857703/152566319-647b1a53-9c5b-452e-bb4b-ba155013f4d5.png"> <img width="300" alt="配置" src="https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG">
+
+基本的に上から照明を当てるのは良くない。人によるが顔のテカリが目立ちすぎてしまうことや影が上手くつかず、照明の意味を果たしていない。被写体の左右どちらかに影を作ることを意識し、高さは顔とほぼ同じ高さまたは少し高いくらいが理想である。
 
 #### 編集
 #### グリーンバック
