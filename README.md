@@ -37,6 +37,10 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 照明2台(B棟413スタジオの設備) Mettle LH-4128
 <img src="https://user-images.githubusercontent.com/49857703/152399238-53cb211a-a600-4e58-84a0-1e6ba72083f8.JPEG" width="300"> <img src="https://user-images.githubusercontent.com/49857703/152399252-cb98c639-81ba-4eb6-b728-5b0c121fbb65.JPEG" width="300">
 
+### 被写体
+- Ren Aoki
+- Kaito Hattori(撮影協力兼被写体)
+
 ### 文献調査
 実際にスタジオで撮影を試す前に、PVやメイキング映像等のプロの撮影方法や照明の使い方を解説している記事,動画を探し参考文献を見つける。主にYouTubeで「照明の使い方」や「Lighting(ライティング)」について解説しているTipｓ動画を参考にし、照明の基礎的な使用方法を学び、実際の検証を進めた。YouTube上には撮影技術に関してプロが「素人」向けに方法を解説しているため、参考にしやすいことからこの媒体を選んだ。海外圏の撮影方法を解説している3つの動画をメインに参考にして、スタジオ撮影に応用する。※[参考文献リストリンク](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
 - [8 Film Looks Using 1 Light](https://www.youtube.com/watch?v=43mIwnKQ9dQ)
