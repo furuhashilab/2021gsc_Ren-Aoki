@@ -61,6 +61,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 背景画像 odan https://o-dan.net/ja/
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
 - フリー動画素材サイト MAZWAI https://mazwai.com/
+   - Taipei City Roads At Night 01 by Videvo https://mazwai.com/video/taipei-city-roads-at-night-01/455377
 
 ### 作品
 
