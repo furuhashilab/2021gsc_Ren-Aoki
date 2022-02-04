@@ -119,6 +119,12 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 - 撮影環境における「光」を明確にリストアップする必要がある。例:太陽の光、部屋の電気、照明
 - iPhoneの照明は10cm以内まで近づけないと意味をなさないので撮影向きではない。
 - 影の付け方に関しては今回の角度や距離は１つの指標としてみるべきで、環境や人によって好みは分かれるので調整しながら撮影すべき。
+
+#### 照明失敗例
+<img width="300" alt="スクリーンショット 0004-02-05 1 31 27" src="https://user-images.githubusercontent.com/49857703/152566319-647b1a53-9c5b-452e-bb4b-ba155013f4d5.png">
+<img width="300" alt="配置" src="https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG">
+![IMG_3541](https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG)
+
 #### 編集
 #### グリーンバック
 - 緑反射(グリーンかぶり)が目立たなかった。
