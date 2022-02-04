@@ -81,18 +81,15 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
    - Financial District Singapore by Videvo https://mazwai.com/video/financial-district-singapore/455142
    - the london feeling by davide quatela https://mazwai.com/video/the-london-feeling/454975
 
-### 作品
-- TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
-
-#### 見え方
-
-#### グリーンバック/クロマキー合成
-
 
 ## Result
-```
-研究過程で得られたデータの叙述的な説明を行う。ここで示したデータは、「Introductionで提起した問題への答えとしての仮説」を支える根拠となるものを厳選する。
-```
+### 作品
+- 撮影した素材とフリー素材で作品を作ってみる。 https://www.youtube.com/watch?v=sIT_GMtpmcY
+- 「影作り」- 照明の角度調整 https://www.youtube.com/watch?v=QMvWMjdWONw
+- TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
+- ゼミ論2021 RenAoki メイキング裏側 https://www.youtube.com/watch?v=AIt526pdZEw
+
+
 #### 照明
 - 単純に照明を当てれば良く映るわけではない。
 - 撮影環境における「光」を明確にリストアップする必要がある。例:太陽の光、部屋の電気、照明
