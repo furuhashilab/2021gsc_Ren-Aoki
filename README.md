@@ -64,7 +64,6 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 
 ### 編集
 - 映像作品はその他のフリー素材と組み合わせてPV風の動画を作成してみる。
-- CC BY 4.0
 - 背景画像 odan https://o-dan.net/ja/
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
 - 背景音声
@@ -83,6 +82,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
    - the london feeling by davide quatela https://mazwai.com/video/the-london-feeling/454975
 
 ### 作品
+- TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
 
 #### 見え方
 
