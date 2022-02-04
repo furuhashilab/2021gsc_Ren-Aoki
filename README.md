@@ -51,6 +51,9 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 文献動画を参考にしながら、照明の位置と距離を変えながら動画撮影してみる。
 
 #### 3点ライトで被写体を照らす
+- [Filmmaking 101 - Three Point Lighting Tutorial](https://www.youtube.com/watch?v=j_Sov3xmgwg)
+
+こちらの動画の照明の使い方を参考にスタジオに設備された2台の照明とiPhone SEのライトで
 
 #### 2点で距離を近づけて光を当てる
 
