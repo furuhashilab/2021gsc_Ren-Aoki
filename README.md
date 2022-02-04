@@ -86,6 +86,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 ## Result
 ### 作品
 - 撮影した素材とフリー素材で作品を作ってみる。 https://www.youtube.com/watch?v=sIT_GMtpmcY
+- 照明あり:なし検証 https://www.youtube.com/watch?v=B9xZ2hz4UM0
 - 「影作り」- 照明の角度調整 https://www.youtube.com/watch?v=QMvWMjdWONw
 - TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
 - ゼミ論2021 RenAoki メイキング裏側 https://www.youtube.com/watch?v=AIt526pdZEw
@@ -112,6 +113,7 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 - 単純に照明を当てれば良く映るわけではない。
 - 撮影環境における「光」を明確にリストアップする必要がある。例:太陽の光、部屋の電気、照明
 - iPhoneの照明は10cm以内まで近づけないと意味をなさないので撮影向きではない。
+- 影の付け方に関しては今回の角度や距離は１つの指標としてみるべきで、環境や人によって好みは分かれるので調整しながら撮影すべき。
 #### 編集
 #### グリーンバック
 - 緑反射(グリーンかぶり)が目立たなかった。
