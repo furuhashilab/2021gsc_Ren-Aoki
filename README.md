@@ -91,6 +91,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 「影作り」- 照明の角度調整 https://www.youtube.com/watch?v=QMvWMjdWONw
 - TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
 - ゼミ論2021 RenAoki メイキング裏側 https://www.youtube.com/watch?v=AIt526pdZEw
+- グリーンかぶりが目立たない。 https://www.youtube.com/watch?v=TK-3U9_DHf8
 
 
 #### 照明
