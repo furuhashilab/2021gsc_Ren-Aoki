@@ -118,12 +118,14 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 
 #### 照明失敗例
 - 被写体のテカリが目立つ
+
 <img width="300" alt="スクリーンショット 0004-02-05 1 31 27" src="https://user-images.githubusercontent.com/49857703/152566319-647b1a53-9c5b-452e-bb4b-ba155013f4d5.png"> <img width="300" alt="配置" src="https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG">
 <img width="700" alt="失敗パターン" src="https://user-images.githubusercontent.com/49857703/152567947-cea6f6fa-575a-46ed-a237-c977fa946d4c.png">
 
 基本的に上から照明を当てるのは良くない。人によるが顔のテカリが目立ちすぎてしまうことや影が上手くつかず、照明の意味を果たしていない。被写体の左右どちらかに影を作ることを意識し、高さは顔とほぼ同じ高さまたは少し高いくらいが理想である。
 
 - 影を作りすぎてしまった
+
 <img width="700" alt="影が出来過ぎ" src="https://user-images.githubusercontent.com/49857703/152569862-37e74139-8961-451c-89c2-69363a8afd27.png"> <img width="800" alt="失敗パターン2" src="https://user-images.githubusercontent.com/49857703/152570977-edb04e1f-ef12-45f0-bdab-21f351a240ee.png">
 
 
