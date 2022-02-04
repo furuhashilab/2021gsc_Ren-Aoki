@@ -66,6 +66,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 映像作品はその他のフリー素材と組み合わせてPV風の動画を作成してみる。
 - 背景画像 odan https://o-dan.net/ja/
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
+- YouTube Audio Library "Dog and Pony Show"
 - 背景音声
 　　　
    - Good Presentation VS Bad Presentation https://www.youtube.com/watch?v=V8eLdbKXGzk CC BY licens
