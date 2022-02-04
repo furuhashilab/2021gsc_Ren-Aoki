@@ -62,6 +62,11 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
 - フリー動画素材サイト MAZWAI https://mazwai.com/
    - Taipei City Roads At Night 01 by Videvo https://mazwai.com/video/taipei-city-roads-at-night-01/455377
+   - Flying Over Bangkok by Videvo https://mazwai.com/video/flying-over-bangkok/455398
+   - Slow Motion Fist Bump by Videvo https://mazwai.com/video/slow-motion-fist-bump/455351
+   - Mother Holding Babys Hand by Videvo https://mazwai.com/video/mother-holding-babys-hand/455328
+   - Silhouetted Man Looking Out of Window by Videvo https://mazwai.com/video/silhouetted-man-looking-out-of-window/455350
+   - the british museum by 7seven films https://mazwai.com/video/the-british-museum/455032
 
 ### 作品
 
