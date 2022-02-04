@@ -60,6 +60,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - CC BY 4.0
 - 背景画像 odan https://o-dan.net/ja/
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
+- フリー動画素材サイト MAZWAI https://mazwai.com/
 
 ### 作品
 
