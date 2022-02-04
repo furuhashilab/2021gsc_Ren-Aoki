@@ -132,6 +132,7 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 [参考文献リスト](https://docs.google.com/spreadsheets/d/1aTm66UNxFB5cAVl1_44wyT1jAr8qmjzAisON0W4mXs0/edit?usp=sharing)
 
 ## 動画画像管理
+- [YouTube再生リスト](https://youtube.com/playlist?list=PLlj_rbX4LxZ5LO9gXAGwe9n9m0SXK-MhW)
 - [google drive](https://drive.google.com/drive/folders/10pvrhj31vhUJL78bbD78trISLu3uBNR0?usp=sharing)
 
 ## プレゼンスライド
