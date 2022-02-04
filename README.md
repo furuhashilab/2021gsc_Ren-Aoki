@@ -95,9 +95,16 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 
 
 #### 照明
+- 照明あり:なし検証 https://www.youtube.com/watch?v=B9xZ2hz4UM0
+
+<img width="500" alt="3点照明の場合" src="https://user-images.githubusercontent.com/49857703/152567926-1ea5d8af-ae97-414d-895e-19fc3fc40862.png">
+<img width="500" alt="2点照明の場合" src="https://user-images.githubusercontent.com/49857703/152567945-39b43cea-05c3-4d02-8fbf-fa17eae8edc0.png">
 - 単純に照明を当てれば良く映るわけではない。
 - 撮影環境における「光」を明確にリストアップする必要がある。例:太陽の光、部屋の電気、照明
+
+
 #### 編集
+
 #### グリーンバック
 - 「グリーンかぶり」が目立ちやすい服でも検証。
 <img width="300" alt="スクリーンショット 0004-02-04 17 23 11" src="https://user-images.githubusercontent.com/49857703/152495983-895f91de-3aa1-4d4f-b11b-84da566bcbbf.png">
