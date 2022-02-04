@@ -165,6 +165,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - [google drive](https://drive.google.com/drive/folders/10pvrhj31vhUJL78bbD78trISLu3uBNR0?usp=sharing)
 
 ## プレゼンスライド
+- https://docs.google.com/presentation/d/11VS-iUB4vc8jCvWS7aqoxIlSaQmlRiS_8Qd29nFfFJg/edit?usp=sharing
 
 ## Github プロジェクトリンク
 - https://github.com/furuhashilab/sotsuron2021/projects/17
