@@ -85,6 +85,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 
 ## Result
 ### 作品
+- 全体再生リスト https://youtube.com/playlist?list=PLlj_rbX4LxZ5LO9gXAGwe9n9m0SXK-MhW
 - 撮影した素材とフリー素材で作品を作ってみる。 https://www.youtube.com/watch?v=sIT_GMtpmcY
 - 照明あり:なし検証 https://www.youtube.com/watch?v=B9xZ2hz4UM0
 - 「影作り」- 照明の角度調整 https://www.youtube.com/watch?v=QMvWMjdWONw
