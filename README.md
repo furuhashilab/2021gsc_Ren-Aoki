@@ -65,8 +65,10 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 - 背景画像 odan https://o-dan.net/ja/
 - 使用bgm dova-syndrome こおろぎさん作 「流れ星」 https://dova-s.jp/bgm/play347.html
 - 背景音声
-　　　- Good Presentation VS Bad Presentation https://www.youtube.com/watch?v=V8eLdbKXGzk CC BY license
-　　　- Interview with Mark Brand | Food Entrepreneur https://www.youtube.com/watch?v=HOrT9_1rIFE&t=101s CC BY license
+　　　
+   - Good Presentation VS Bad Presentation https://www.youtube.com/watch?v=V8eLdbKXGzk CC BY licens
+   - Interview with Mark Brand | Food Entrepreneur https://www.youtube.com/watch?v=HOrT9_1rIFE&t=101s CC BY license
+
 - フリー動画素材サイト MAZWAI https://mazwai.com/
    - Taipei City Roads At Night 01 by Videvo https://mazwai.com/video/taipei-city-roads-at-night-01/455377
    - Flying Over Bangkok by Videvo https://mazwai.com/video/flying-over-bangkok/455398
