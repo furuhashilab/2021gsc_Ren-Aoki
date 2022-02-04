@@ -122,6 +122,7 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 
 #### 照明失敗例
 <img width="300" alt="スクリーンショット 0004-02-05 1 31 27" src="https://user-images.githubusercontent.com/49857703/152566319-647b1a53-9c5b-452e-bb4b-ba155013f4d5.png"> <img width="300" alt="配置" src="https://user-images.githubusercontent.com/49857703/152566342-c8da0d66-2dce-4399-aee1-adacb0bb6ff0.JPG">
+<img width="700" alt="失敗パターン" src="https://user-images.githubusercontent.com/49857703/152567947-cea6f6fa-575a-46ed-a237-c977fa946d4c.png">
 
 基本的に上から照明を当てるのは良くない。人によるが顔のテカリが目立ちすぎてしまうことや影が上手くつかず、照明の意味を果たしていない。被写体の左右どちらかに影を作ることを意識し、高さは顔とほぼ同じ高さまたは少し高いくらいが理想である。
 
