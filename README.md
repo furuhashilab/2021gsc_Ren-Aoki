@@ -67,6 +67,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
    - Mother Holding Babys Hand by Videvo https://mazwai.com/video/mother-holding-babys-hand/455328
    - Silhouetted Man Looking Out of Window by Videvo https://mazwai.com/video/silhouetted-man-looking-out-of-window/455350
    - the british museum by 7seven films https://mazwai.com/video/the-british-museum/455032
+   - Financial District Singapore by Videvo https://mazwai.com/video/financial-district-singapore/455142
 
 ### 作品
 
