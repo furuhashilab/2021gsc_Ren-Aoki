@@ -86,7 +86,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 ## Result
 ### 作品
 - 全体再生リスト https://youtube.com/playlist?list=PLlj_rbX4LxZ5LO9gXAGwe9n9m0SXK-MhW
-- 撮影した素材とフリー素材で作品を作ってみる。 https://www.youtube.com/watch?v=sIT_GMtpmcY
+- 撮影した素材とフリー素材で作品を作ってみる。 https://youtu.be/8RaUfmS6bLw
 - 照明あり:なし検証 https://www.youtube.com/watch?v=B9xZ2hz4UM0
 - 「影作り」- 照明の角度調整 https://www.youtube.com/watch?v=QMvWMjdWONw
 - TEDxAoyamaGakuinU2020 iYutaさんと今回の撮影の比較 https://www.youtube.com/watch?v=uD0YpuOwrUc
@@ -128,7 +128,7 @@ B棟4階スタジオに備わっている照明は2台あり、どちらも型�
 <img width="500" src="https://user-images.githubusercontent.com/49857703/152572262-2765a2ad-d55c-48a1-8407-847384aff165.JPG">
 
 #### グリーンバック
-- [動画](https://www.youtube.com/watch?v=sIT_GMtpmcY)
+- [動画](https://youtu.be/8RaUfmS6bLw)
 
 グリーンバックを用いる場合
 
